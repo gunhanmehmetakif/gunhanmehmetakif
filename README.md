@@ -9,7 +9,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/about-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/about-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
-  <img src="assets/about-light.svg" width="100%" alt="Hakkımda. Hatay Mustafa Kemal Üniversitesi&#x27;nde Yönetim Bilişim Sistemleri okuyorum, İstanbul&#x27;da yaşıyorum. Eylül 2025&#x27;ten beri KODBOX&#x27;un kurucu ortağıyım: firmalara kendi işleyişlerine göre yönetim panelleri, uygulamalar ve WhatsApp&#x27;ta müşterilerle konuşan LLM tabanlı chatbotlar yapıyoruz. Kod yazmaya 2024&#x27;te, biyoloji dersi için bir yarışma oyunu yaparak başladım. Sonra derslerde, mağazada ve kendi masamda gördüğüm sorunlara birer araç yazdım. 2024 ilk kod satırım, 6 proje, 256 otomatik test, Campus, 31K yıldızlı projeye katkı. Şu an henüz duyurmadığım yeni bir proje üzerinde çalışıyorum. Freelance çalışmalara açığım: chatbot, n8n otomasyonu, web uygulaması ve IoT. Sertifikalar: BTK Akademi, Uluslararası İş Analizi, Proje Yönetimi Temelleri, Müşterilerini Tanımak.">
+  <img src="assets/about-light.svg" width="100%" alt="Hakkımda. Hatay Mustafa Kemal Üniversitesi&#x27;nde Yönetim Bilişim Sistemleri okuyorum, İstanbul&#x27;da yaşıyorum. Eylül 2025&#x27;ten beri KODBOX&#x27;un kurucu ortağıyım: firmalara kendi işleyişlerine göre yönetim panelleri, uygulamalar ve WhatsApp&#x27;ta müşterilerle konuşan LLM tabanlı chatbotlar yapıyoruz. Kod yazmaya 2023 sonunda, biyoloji dersi için bir yarışma oyunu yaparak başladım. Sonra derslerde, mağazada ve kendi masamda gördüğüm sorunlara birer araç yazdım. 2023 ilk kod satırım, 6 proje, 256 otomatik test, Campus, 31K yıldızlı projeye katkı. Şu an henüz duyurmadığım yeni bir proje üzerinde çalışıyorum. Freelance çalışmalara açığım: chatbot, n8n otomasyonu, web uygulaması ve IoT. Sertifikalar: BTK Akademi, Uluslararası İş Analizi, Proje Yönetimi Temelleri, Müşterilerini Tanımak.">
 </picture>
 
 <picture>
@@ -85,7 +85,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/milyoner-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/milyoner-light-m.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/milyoner-dark.svg">
-  <img src="assets/milyoner-light.svg" width="100%" alt="Kim Milyoner Olmak İster (2024, Tamamlandı). 2024&#x27;te biyoloji dersi için sınıfta bir bilgi yarışması yapmak istedim. Kod bilmiyordum; sohbet botlarıyla konuşup verdikleri kodlarla ses efektli, skorlu bir yarışma oyunu yaptım. İlk projem bu. Tarayıcıda oynanıyor. Teknolojiler: HTML, CSS, JavaScript.">
+  <img src="assets/milyoner-light.svg" width="100%" alt="Kim Milyoner Olmak İster (2023, Tamamlandı). 2023 sonunda biyoloji dersi için sınıfta bir bilgi yarışması yapmak istedim. Kod bilmiyordum; sohbet botlarıyla konuşup verdikleri kodlarla ses efektli, skorlu bir yarışma oyunu yaptım. İlk projem bu. Tarayıcıda oynanıyor. Teknolojiler: HTML, CSS, JavaScript.">
 </picture>
 <a href="https://github.com/gunhanmehmetakif/kim-milyoner-oyunu"><img src="assets/link-repo-2.svg" height="34" alt="Repoyu aç"></a>
 <a href="https://milyoner.mehmetakifgunhan.com/"><img src="assets/link-play.svg" height="34" alt="Oyna"></a>
