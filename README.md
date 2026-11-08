@@ -1,3 +1,5 @@
+<a href="https://github.com/gunhanmehmetakif/claude-notch"><img src="assets/notch-banner.svg" width="100%" alt="Claude Notch: yeni projem. Çentiğin içinde koşan piksel Claude, yanında agent'lar ve sıvı gibi dolan kota göstergeleri."></a>
+
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/header-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/header-light-m.svg">
