@@ -20,6 +20,19 @@
 </picture>
 
 <p align="right">
+<a href="https://github.com/gunhanmehmetakif/claude-notch">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/notch-dark-m.svg">
+  <source media="(max-width: 600px)" srcset="assets/notch-light-m.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/notch-dark.svg">
+  <img src="assets/notch-light.svg" width="100%" alt="Claude Notch (2026, Yeni). Claude Code'u üç projede çalıştırıp başka pencereye geçince hangisinin bittiğini kaçırıyordum. Ekranın üstüne Dynamic Island gibi bir çentik yaptım: Claude içinde koşuyor, kota sıvı gibi doluyor. Hiç token harcamıyor. Teknolojiler: Tauri 2, Rust, JavaScript, Claude Code hooks, Codex.">
+</picture>
+</a>
+<a href="https://github.com/gunhanmehmetakif/claude-notch"><img src="assets/link-repo.svg" height="34" alt="Repoyu aç"></a>
+<a href="https://github.com/gunhanmehmetakif/claude-notch/releases/latest"><img src="assets/link-download.svg" height="34" alt="İndir (Windows)"></a>
+</p>
+
+<p align="right">
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/kodbox-dark-m.svg">
   <source media="(max-width: 600px)" srcset="assets/kodbox-light-m.svg">
