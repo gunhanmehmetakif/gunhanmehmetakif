@@ -66,4 +66,50 @@
 <rect x="38" y="196" width="7" height="3.5" rx=".6" fill="#CDBB91"/>
 <rect x="86" y="196" width="7" height="3.5" rx=".6" fill="#CDBB91"/>
 <rect x="50" y="200" width="30" height="18" rx="2.5" fill="#C4CBC7" stroke="#9EA8A3"/><rect x="56" y="205" width="18" height="5" rx="1" fill="#59625E"/></g></g>
+<!-- claude-notch:start -->
+<a href="https://github.com/gunhanmehmetakif/claude-notch"><g transform="translate(300.0 0) scale(1)">
+<style>
+.cn-c{fill:#D97757}.cn-x{fill:#C8D0DB}.cn-eyes rect{fill:#141413}
+.cn-ln{fill:#fff;opacity:0;animation:cn-sp .6s linear infinite}.cn-l2{animation-delay:-.2s}.cn-l3{animation-delay:-.4s}
+.cn-b{animation:cn-bob .48s step-end infinite}.cn-la{animation:cn-la .48s step-end infinite}.cn-lb{animation:cn-lb .48s step-end infinite}
+.cn-al{animation:cn-arm .48s step-end infinite}.cn-ar{animation:cn-arm .48s step-end infinite -.24s}
+.cn-m{animation-duration:.38s}.cn-ar.cn-m{animation-delay:-.19s}
+.cn-eyes{transform-box:fill-box;transform-origin:center;animation:cn-blink 3.4s linear infinite}
+.cn-road{stroke:#fff;stroke-opacity:.32;stroke-width:1.6;stroke-dasharray:5 4;animation:cn-road .35s linear infinite}
+.cn-w{animation:cn-wave 1.8s linear infinite}.cn-w.cn-bk{opacity:.45;animation-duration:2.7s;animation-direction:reverse}
+.cn-ok{fill:#34C77B}.cn-warn{fill:#F5A524}
+@keyframes cn-bob{0%{transform:translate(0,0)}25%{transform:translate(0,-1px)}50%{transform:translate(0,0)}75%{transform:translate(0,-1px)}}
+@keyframes cn-la{0%{transform:translate(1px,0)}25%{transform:translate(0,0)}50%{transform:translate(-1px,-1px)}75%{transform:translate(0,-1px)}100%{transform:translate(1px,0)}}
+@keyframes cn-lb{0%{transform:translate(-1px,-1px)}25%{transform:translate(0,-1px)}50%{transform:translate(1px,0)}75%{transform:translate(0,0)}100%{transform:translate(-1px,-1px)}}
+@keyframes cn-arm{0%{transform:translate(0,-1px)}50%{transform:translate(0,1px)}}
+@keyframes cn-blink{0%,93%,97%,100%{transform:scaleY(1)}95%{transform:scaleY(.15)}}
+@keyframes cn-sp{0%{transform:translateX(3px);opacity:0}25%{opacity:.55}100%{transform:translateX(-7px);opacity:0}}
+@keyframes cn-road{to{stroke-dashoffset:9}}
+@keyframes cn-wave{from{transform:translateX(0)}to{transform:translateX(-10px)}}
+@media (prefers-reduced-motion:reduce){[class^="cn-"],[class*=" cn-"]{animation:none!important}}
+</style>
+<defs>
+<clipPath id="cn-gl"><circle r="11"/></clipPath>
+<path id="cn-wave" d="M-20 0 q2.5 -1.8 5 0 t5 0 t5 0 t5 0 t5 0 t5 0 t5 0 t5 0 t5 0 t5 0 t5 0 t5 0 V30 H-20 Z"/>
+<g id="cn-run" shape-rendering="crispEdges">
+<rect class="cn-ln" x="-3" y="1" width="4" height="1"/><rect class="cn-ln cn-l2" x="-5" y="3" width="5" height="1"/><rect class="cn-ln cn-l3" x="-2" y="6.5" width="3" height="1"/>
+<g class="cn-b"><g class="cn-la"><rect x="4" y="8" width="1" height="2"/><rect x="11" y="8" width="1" height="2"/></g><g class="cn-lb"><rect x="6" y="8" width="1" height="2"/><rect x="13" y="8" width="1" height="2"/></g>
+<rect class="cn-al" x="1" y="4" width="2" height="2"/><rect class="cn-ar" x="15" y="4" width="2" height="2"/><rect x="3" y="0" width="12" height="8"/>
+<g class="cn-eyes"><rect x="5" y="2" width="1" height="2"/><rect x="12" y="2" width="1" height="2"/></g></g>
+</g>
+<g id="cn-mini" shape-rendering="crispEdges">
+<g class="cn-b cn-m"><g class="cn-la cn-m"><rect x="4" y="8" width="1" height="2"/><rect x="11" y="8" width="1" height="2"/></g><g class="cn-lb cn-m"><rect x="6" y="8" width="1" height="2"/><rect x="13" y="8" width="1" height="2"/></g>
+<rect class="cn-al cn-m" x="1" y="4" width="2" height="2"/><rect class="cn-ar cn-m" x="15" y="4" width="2" height="2"/><rect x="3" y="0" width="12" height="8"/>
+<g class="cn-eyes"><rect x="5" y="2" width="1" height="2"/><rect x="12" y="2" width="1" height="2"/></g></g>
+</g>
+</defs>
+<path d="M0 0 H300 V36 a22 22 0 0 1 -22 22 H22 a22 22 0 0 1 -22 -22 Z" fill="#000"/>
+<g transform="translate(30 27)"><circle r="11" fill="#fff" fill-opacity=".06"/><g clip-path="url(#cn-gl)"><g transform="translate(0 4)"><use href="#cn-wave" class="cn-w cn-bk cn-ok"/><use href="#cn-wave" class="cn-w cn-ok"/></g></g><circle r="11.8" fill="none" stroke="#fff" stroke-opacity=".16"/><text y="2.6" text-anchor="middle" font-family="Segoe UI,system-ui,Helvetica,Arial,sans-serif" font-size="7" font-weight="700" fill="#fff">34%</text></g>
+<g transform="translate(270 27)"><circle r="11" fill="#fff" fill-opacity=".06"/><g clip-path="url(#cn-gl)"><g transform="translate(0 -3)"><use href="#cn-wave" class="cn-w cn-bk cn-warn"/><use href="#cn-wave" class="cn-w cn-warn"/></g></g><circle r="11.8" fill="none" stroke="#fff" stroke-opacity=".16"/><text y="2.6" text-anchor="middle" font-family="Segoe UI,system-ui,Helvetica,Arial,sans-serif" font-size="7" font-weight="700" fill="#fff">62%</text></g>
+<line class="cn-road" x1="98" y1="44" x2="206" y2="44"/>
+<use href="#cn-run" class="cn-c" transform="translate(110 25) scale(1.9)"/>
+<use href="#cn-mini" class="cn-c" transform="translate(156 36) scale(.8)"/>
+<use href="#cn-mini" class="cn-x" transform="translate(176 36) scale(.8)"/>
+</g></a>
+<!-- claude-notch:end -->
 </svg>
